@@ -1,0 +1,9 @@
+body {
+	background-color: goldenrod;
+}
+
+.container {
+	background-color: darkslateblue;
+	color: lightgoldenrodyellow;
+	border: 5px solid indianred;
+}
